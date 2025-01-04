@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Tableau, R, Python
 
 ### Education
-B.S., Mathematics | University of Illinois at Urbana-Champaign (_December 2018_)
+B.S., Mathematics | University of Illinois at Urbana-Champaign (_2018_)
 
 ### Work Experience
 **Academic Systems Analyst @ City Colleges of Chicago (_July 2023 - Present_)
